@@ -1,7 +1,7 @@
 # Parcels Management System
 
 - Description:
-  - Parcel management system using OOP concepts
+  - Parcels management system using OOP concepts
   - Operations:
     
       - Display parcels list
