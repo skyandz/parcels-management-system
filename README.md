@@ -1,6 +1,6 @@
 # Parcels Management System
 
-- Description
+- Description:
   - Parcel management system using OOP concepts
   - Operation:
     - Display parcels list
@@ -8,3 +8,5 @@
     - Add new parcels
     - Remove parcels
   - Update the file (Stock.txt) when operated
+
+- Result:
