@@ -9,6 +9,6 @@
       - Add new parcels
       - Remove parcels
         
-  - Update the file (Stock.txt) when operated
+  - Update the file [(Stock.txt)](Stock) when operated
 
 - Result:
