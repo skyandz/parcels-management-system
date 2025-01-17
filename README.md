@@ -11,4 +11,4 @@
         
   - Update the file [(Stock.txt)](Stock.txt) when operated
 
-- Result:
+- Result: (https://youtu.be/ZtCfSj8_WBs)[https://youtu.be/ZtCfSj8_WBs]
